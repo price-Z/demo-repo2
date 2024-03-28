@@ -1,3 +1,3 @@
 # demo
 
-some textgi
+some texts
